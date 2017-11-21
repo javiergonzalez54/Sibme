@@ -2,4 +2,5 @@
 First Design Mockup
 
 To run in Terminal:
-type "ruby sibme_server.rb"
+Type "ruby sibme_server.rb"
+On your browser, type "localhost:4567"
